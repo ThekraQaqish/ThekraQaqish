@@ -53,12 +53,12 @@
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Zekra's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThekraQaqish&E&show_icons=true&theme=tokyonight" alt="Zekra's github stats"/>
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ThekraQaqish&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
 ---
