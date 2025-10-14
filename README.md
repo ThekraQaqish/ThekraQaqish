@@ -1,5 +1,7 @@
 <!-- 💫 GitHub Profile by Thekra Qaqish -->
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Thekta. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
+<br />
 <!-- Profile Views -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ThekraQaqish&label=Profile%20views&color=green&style=flat" alt="ThekraQaqish" /> 
