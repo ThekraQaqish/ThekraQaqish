@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/thekra-qaqish/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <p> </p>
+
   <a href="mailto:qaqishth@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
