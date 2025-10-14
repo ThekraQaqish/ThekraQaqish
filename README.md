@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThekraQaqish?cardType=github&theme=dracula&preferLogin=true" />
 </p>
-<h3 align="center">🛠️ Tools & Technologies</h3>
+<h3 align="center"> Tools & Technologies</h3>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -60,7 +60,7 @@
   </a>
 </p>
 
-<h3 align="center">🤝 Connect with me</h3>
+<h3 align="center"> Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/thekra-qaqish/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
