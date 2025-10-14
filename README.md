@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThekraQaqish&theme=tokyonight" alt="Thekra streak stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThekraQaqish&layout=compact&theme=tokyonight" alt="Thekra top languages" />
 </p>
 
