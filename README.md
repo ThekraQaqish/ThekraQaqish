@@ -9,16 +9,6 @@
 
 ---
 
-### 🚀 About Me  
-🎓 **Computer Information Systems** graduate from *Yarmouk University* (Grade: Very Good)  
-💻 Full-Stack Developer experienced in **React, Node.js, Express, and PostgreSQL**  
-🧠 Passionate about **AI, Machine Learning, and building intelligent web apps**  
-🐍 Experienced with **Python, Odoo ERP, and automation systems**  
-🔧 Strong in **problem-solving, debugging, and scalable architecture**  
-📫 Reach me at **qaqishth@gmail.com**
-
----
-
 ### 🧰 Tech Stack  
 
 <p align="center">
