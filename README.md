@@ -11,7 +11,7 @@
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThekraQaqish?cardType=github&theme=dracula&preferLogin=true" />
 </p>
 
----
+
 <h3 align="center">🛠️ Tools & Technologies</h3>
 
 <p align="center">
@@ -62,7 +62,6 @@
   </a>
 </p>
 
----
 
 <h3 align="center">🤝 Connect with me</h3>
 
