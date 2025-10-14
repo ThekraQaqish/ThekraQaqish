@@ -7,9 +7,11 @@
 </p>
 
 <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThekraQaqish?cardType=github&theme=dracula&preferLogin=true" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThekraQaqish?cardType=github&theme=green&preferLogin=true" />
 </p>
+
 
 
 <h3 align="center"> Tools & Technologies</h3>
