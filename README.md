@@ -12,9 +12,9 @@
 ### 🚀 About Me  
 - 🌍 Based in **Amman, Jordan**  
 - 💡 Passionate about building **scalable web applications**  
-- 🧠 Currently learning **Next.js & Cloud Deployment**  
+- 🧠 Currently learning **Cloud Deployment**  
 - 💬 Ask me about **JavaScript, React, Node.js, and APIs**  
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at **qaqishth@gmail.com**
 
 ---
 
