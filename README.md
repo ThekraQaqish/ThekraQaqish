@@ -25,39 +25,6 @@
   <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,postgres,mongodb,firebase,docker,git,github,figma,vscode,html,css,tailwind,linux" />
 </p>
 
----
-
-### 💼 Experience
-
-**Python Developer | Digital Pages – Amman, Jordan**  
-*May 2024 – Oct 2024*  
-- Developed and maintained Python applications for business solutions.  
-- Worked with **Odoo ERP**, building custom modules and automations.  
-- Containerized applications using **Docker** for scalability and deployment.  
-- Collaborated on debugging, testing, and feature enhancements.  
-
----
-
-### 📚 Training & Certifications
-- **LTUC (Luminus Technical University College)** – Advanced JavaScript & Full-Stack Development *(May 2025 – Present)*  
-- **Complete Machine Learning & Data Science Bootcamp (Udemy)** – 2023  
-- **Python for Computer Vision with OpenCV & Deep Learning (Udemy)** – 2023  
-- **Orange Coding School** – 2023  
-- **EFE Python Training** – 2023  
-
----
-
-### 🧩 Featured Projects  
-
-| Project | Description | Stack | Links |
-|----------|--------------|--------|--------|
-| 🛍️ **Multi-Vendor E-Commerce System** | Full-stack marketplace for customers, vendors & delivery companies. Includes cart, payment, JWT auth, Firebase notifications. | React, Node.js, PostgreSQL, Firebase | [Code](https://github.com/ThekraQaqish/Multi-Vendor-Ecommerce) |
-| 🎨 **ArtFlow – Artistic Social Platform** | Social platform for artists. Features auth, CRUD, likes, comments, and real-time chat. | React, Node.js, PostgreSQL | [Code](https://github.com/ThekraQaqish/ArtFlow) |
-| 🍽️ **Flavor Table – Recipe Management API** | RESTful API for recipes with JWT auth, deployed on Render. | Node.js, Express, PostgreSQL | [Code](https://github.com/ThekraQaqish/FlavorTable) |
-| 💬 **JobTracker** | Track job applications and manage progress. Future version integrates AI chatbot. | React, Node.js | [Code](https://github.com/ThekraQaqish/JobTracker) |
-| 🤖 **Sign Language Translation (Graduation Project)** | TensorFlow model with ResNet50 for real-time gesture recognition. | Python, TensorFlow | [Code](https://github.com/ThekraQaqish/SignLanguageRecognition) |
-
----
 
 ### 📊 GitHub Stats  
 
