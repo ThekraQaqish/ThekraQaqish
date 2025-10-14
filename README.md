@@ -9,8 +9,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThekraQaqish&show_icons=true&theme=tokyonight" alt="Thekra stats" />
 </p>
@@ -24,8 +22,6 @@
 </p>
 
 ---
-
-### 🧰 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,postgres,mongodb,firebase,docker,git,github,figma,vscode,html,css,tailwind,linux" />
