@@ -1,18 +1,16 @@
 <!-- 💫 GitHub Profile by Thekra Qaqish -->
 
+<!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThekraQaqish&label=Profile%20views&color=0e75b6&style=flat" alt="ThekraQaqish" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThekraQaqish&E&show_icons=true&theme=tokyonight" alt="Zekra's github stats"/>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThekraQaqish&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThekraQaqish&show_icons=true&theme=tokyonight" alt="Thekra stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThekraQaqish&layout=compact&theme=tokyonight" alt="Thekra top languages" />
-</p>
 
 ---
 
@@ -46,18 +44,6 @@
 
 <p align="center">✨ Driven by curiosity, powered by code. ✨</p>
 
-
-<!-- GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThekraQaqish&E&show_icons=true&theme=tokyonight" alt="Zekra's github stats"/>
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThekraQaqish&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
-
----
 
 
 
