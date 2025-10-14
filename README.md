@@ -1,5 +1,5 @@
 <!-- 💫 GitHub Profile by Thekra Qaqish -->
-<p align="center"><img width="80%" alt="Hello, I'm Thekta. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><img width="80%" alt="Hello, I'm Thekta. I do open source!" src="./assets/gh-readme-header.png" /></p>
 
 <br />
 <!-- Profile Views -->
