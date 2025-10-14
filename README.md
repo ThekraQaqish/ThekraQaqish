@@ -1,14 +1,15 @@
 <!-- 💫 GitHub Profile by Thekra Qaqish -->
 
 <!-- GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThekraQaqish&show_icons=true&theme=tokyonight" alt="Zekra's github stats"/>
-</p>
 
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ThekraQaqish&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThekraQaqish&show_icons=true&theme=tokyonight" alt="Zekra's github stats"/>
+</p>
+
 
 <h3 align="center">Connect with me</h3>
 
