@@ -1,8 +1,5 @@
 <!-- 💫 GitHub Profile by Thekra Qaqish -->
 
-<h1 align="center">Hey 👋, I'm Thekra Qaqish</h1>
-<h3 align="center">Full-Stack Software Engineer | JavaScript | Node.js | React | Python | PostgreSQL | MongoDB</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ThekraQaqish&label=Profile%20views&color=0e75b6&style=flat" alt="ThekraQaqish" />
 </p>
