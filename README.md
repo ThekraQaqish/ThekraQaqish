@@ -8,7 +8,12 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThekraQaqish&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false&hide_title=false" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=ThekraQaqish&label=Profile%20views&color=green&style=flat" alt="ThekraQaqish" />
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="20px">
+</p>
+
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThekraQaqish?cardType=github&theme=green&preferLogin=true" />
 </p>
 
 <h3 align="center">🛠️ Tools & Technologies</h3>
