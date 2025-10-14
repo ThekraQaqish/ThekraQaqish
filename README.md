@@ -74,6 +74,5 @@
   </a>
 </p>
 
----
 
 <p align="center">✨ Driven by curiosity, powered by code. ✨</p>
