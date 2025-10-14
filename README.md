@@ -37,10 +37,8 @@
 
 ---
 
-### 🌐 Connect with Me  
-
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-url" target="blank">
+  <a href="https://www.linkedin.com/in/thekra-qaqish/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://github.com/ThekraQaqish" target="blank">
