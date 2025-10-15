@@ -10,6 +10,16 @@
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThekraQaqish?cardType=github&theme=dracula&preferLogin=true" />
 </p>
+
+<h3 align="center"> Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/thekra-qaqish/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:qaqishth@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+</p>
 <h3 align="center"> Tools & Technologies</h3>
 
 <p align="center">
@@ -57,16 +67,6 @@
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="center"> Connect with me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/thekra-qaqish/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="mailto:qaqishth@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 </p>
 
